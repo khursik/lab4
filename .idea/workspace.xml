@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="50012457-b506-4d44-86d0-a6d3f5967ae8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MLApp/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/src/main/java/app/MLController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/src/main/java/app/MLService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/MLApp-0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/classes/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/classes/app/MLController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/classes/app/MLService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/DbWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/FinalRbkService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/MyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/PostResponce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/RbkController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/RbkDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/java/app/SimpleGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/RbkApp-0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/DbWorker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/FinalRbkService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/MyService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/PostResponce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/RbkController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/RbkDb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/Service.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/app/SimpleGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RbkApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/JsonParsing/JsonParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/JsonParsing/TempOneDay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/JsonParsing/TempOneDayData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/JsonParsing/WTemperature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/PostResponce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/SimpleGet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/WeatherController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/java/app/WeatherService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/WeatherApp-0.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/JsonParsing/JsonParser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/JsonParsing/TempOneDay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/JsonParsing/TempOneDayData.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/JsonParsing/WTemperature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/PostResponce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/SimpleGet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/WeatherController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/app/WeatherService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeatherApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/output.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/generator/HomeBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/controller/Controller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/controller/impl/ControllerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/commands/SensorCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/commands/impl/LightOffCommand.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/commands/sender/CommandSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/commands/sender/impl/ConsoleCommandSender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/data/Datasource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/data/JsonDatasource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/data/SmartHomeDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/impl/ManagerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/EventProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/impl/DoorClosedProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/impl/DoorOpenProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/impl/HallDoorClosedProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/impl/LightOffProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/model/processor/impl/LightOnProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/view/Logger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/handler/view/LoggerImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/Room.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/SmartHome.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/SensorEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/generator/SensorEventGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/generator/impl/SensorEventGeneratorImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/impl/DoorClosedEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/impl/DoorOpenEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/impl/LightOffEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/events/impl/LightOnEvent.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/things/Thing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/things/impl/Door.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/sbt/mipt/oop/models/things/impl/Light.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/generator/HomeBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/controller/Controller.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/controller/impl/ControllerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/Manager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/commands/SensorCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/commands/impl/LightOffCommand.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/commands/sender/CommandSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/commands/sender/impl/ConsoleCommandSender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/data/Datasource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/data/JsonDatasource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/data/SmartHomeDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/impl/ManagerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/EventProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/impl/DoorClosedProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/impl/DoorOpenProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/impl/HallDoorClosedProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/impl/LightOffProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/model/processor/impl/LightOnProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/view/Logger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/handler/view/LoggerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/Room.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/SmartHome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/SensorEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/generator/SensorEventGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/generator/impl/SensorEventGeneratorImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/impl/DoorClosedEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/impl/DoorOpenEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/impl/LightOffEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/events/impl/LightOnEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/things/Thing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/things/impl/Door.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/sbt/mipt/oop/models/things/impl/Light.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/smart-home-1.0-SNAPSHOT.jar" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21kARjyLMF36OetCjQWCitZ37Io" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\IdeaProjects\lab4" />
+      <recent name="C:\Users\Пользователь\IdeaProjects\lab4\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Пользователь\IdeaProjects\lab4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Docker.docker-compose.yml: Compose Deployment">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.sbt.mipt.oop.handler.Application" />
+      <module name="lab4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.sbt.mipt.oop.handler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="WeatherApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="MLApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="RbkApp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="app.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+        <item itemvalue="Application.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="50012457-b506-4d44-86d0-a6d3f5967ae8" name="Changes" comment="" />
+      <created>1638474707516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638474707516</updated>
+      <workItem from="1638474708919" duration="3598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
